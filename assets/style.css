@@ -1,0 +1,25 @@
+
+.space-bottom {
+	margin-bottom: 16px;
+}
+
+.pad-verticle {
+	padding: 22px 0;
+}
+
+.white-text {
+	color: #fff;
+}
+
+.small {
+	font-size: 70% !important;
+}
+
+a:not([href]):not([tabindex]) {
+	color: #fff;
+}
+
+a:not([href]):not([tabindex]):hover {
+	color: #fff;
+	cursor: pointer;
+}
